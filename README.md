@@ -219,3 +219,11 @@ For questions, issues, or collaboration inquiries:
 This code is based on the [scNET](https://github.com/madilabcode/scNET) framework.  
 We thank the scNET authors for providing their codebase, which served as the foundation for developing scDECA.
 
+
+## 📝 License
+
+scDECA is released under the [PolyForm Noncommercial License 1.0.0](LICENSE): free for academic research and other non-commercial use. Commercial use requires a separate license; please contact the author.
+
+scDECA builds on [scNET](https://github.com/madilabcode/scNET) (BSD 3-Clause); its copyright notice and license are kept in [THIRD_PARTY_NOTICES](THIRD_PARTY_NOTICES) and continue to apply to the parts derived from it.
+
+Copyright (c) 2026 Myeongbin Oh.
